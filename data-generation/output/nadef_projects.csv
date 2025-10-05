@@ -1,0 +1,201 @@
+project_id,project_name,community,category,start_date,end_date,budget_usd,actual_spend_usd,beneficiaries_count,status,impact_score,completion_percentage,project_manager,implementing_partner,funding_source
+NAD0001,Kenyasi No. 1 Health Clinic Development,Kenyasi No. 1,Healthcare,2022-08-19,2023-05-16,106181.02,33935.26,212,Cancelled,1.5,28.0,PM_08,Local NGO,NADeF Core
+NAD0002,Gyedu Health Clinic Development,Gyedu,Healthcare,2007-12-14,2008-12-08,73399.18,81462.29,146,Completed,6.8,100.0,PM_02,NADeF Direct,NADeF Core
+NAD0003,Yamfo Market Development,Yamfo,Economic Development,2017-05-02,2017-07-31,76645.81,87450.79,76,Completed,7.5,100.0,PM_18,Local NGO,Partnership Fund
+NAD0004,Susuanso Women's Cooperative Program,Susuanso,Women Empowerment,2010-12-11,2011-09-07,18493.56,16737.07,10,Completed,7.9,100.0,PM_19,Government Partnership,NADeF Core
+NAD0005,Susuanso Road/Bridge Construction,Susuanso,Infrastructure,2013-08-19,2015-02-10,245545.84,230167.0,1227,Completed,8.8,100.0,PM_05,Local NGO,Special Projects Fund
+NAD0006,Kenyasi No. 2 Health Clinic Development,Kenyasi No. 2,Healthcare,2014-07-10,2014-11-07,70924.08,68080.63,141,Completed,8.4,100.0,PM_12,Government Partnership,Partnership Fund
+NAD0007,Kenyasi No. 1 Agricultural Training Program,Kenyasi No. 1,Agriculture,2022-05-14,2023-02-08,62110.56,62375.79,46,Completed,8.8,100.0,PM_18,NADeF Direct,Special Projects Fund
+NAD0008,Gyedu Health Clinic Development,Gyedu,Healthcare,2012-07-29,2013-04-25,56967.56,51336.73,113,Completed,7.2,100.0,PM_19,Local NGO,Partnership Fund
+NAD0009,Kenyasi No. 1 Health Clinic Development,Kenyasi No. 1,Healthcare,2020-10-31,2021-04-29,192332.83,65877.69,384,Cancelled,1.3,19.1,PM_25,Government Partnership,NADeF Core
+NAD0010,Kenyasi No. 2 Market Development,Kenyasi No. 2,Economic Development,2014-07-11,2015-04-07,74738.64,66264.14,74,Completed,6.5,100.0,PM_15,Government Partnership,NADeF Core
+NAD0011,Wamahinso Water System Installation,Wamahinso,Water & Sanitation,2010-09-13,2011-05-11,44814.39,41571.35,134,Completed,9.0,100.0,PM_23,NADeF Direct,Partnership Fund
+NAD0012,Gyedu Road/Bridge Construction,Gyedu,Infrastructure,2022-05-10,2023-05-05,176306.1,178776.69,881,Completed,7.6,100.0,PM_06,International NGO,Special Projects Fund
+NAD0013,Gyedu Agricultural Training Program,Gyedu,Agriculture,2010-12-05,2011-11-30,73175.08,82823.19,54,Completed,7.7,100.0,PM_11,NADeF Direct,NADeF Core
+NAD0014,Wamahinso School Construction/Renovation,Wamahinso,Education,2014-12-31,2015-12-26,99737.5,12621.56,49,Cancelled,1.1,15.9,PM_03,Local NGO,Partnership Fund
+NAD0015,Yamfo Water System Installation,Yamfo,Water & Sanitation,2020-09-13,2021-09-08,85546.25,79678.18,256,Completed,9.5,100.0,PM_13,International NGO,NADeF Core
+NAD0016,Ntotoroso Agricultural Training Program,Ntotoroso,Agriculture,2011-07-14,2012-07-08,36405.2,36871.51,27,Completed,7.4,100.0,PM_18,Community-led,Special Projects Fund
+NAD0017,Susuanso Environmental Protection Initiative,Susuanso,Environmental Conservation,2019-02-02,2022-01-17,51098.86,58562.67,510,Completed,7.3,100.0,PM_12,Local NGO,NADeF Core
+NAD0018,Afrisipa Women's Cooperative Program,Afrisipa,Women Empowerment,2008-01-15,2008-07-13,17948.63,19647.26,10,Completed,9.1,100.0,PM_04,Local NGO,Partnership Fund
+NAD0019,Susuanso Road/Bridge Construction,Susuanso,Infrastructure,2019-05-18,2020-01-13,311927.33,272067.2,1559,Completed,6.1,100.0,PM_13,International NGO,Partnership Fund
+NAD0020,Gyedu Youth Center Development,Gyedu,Youth Development,2011-08-22,2013-02-12,26952.14,27949.09,40,Completed,8.0,100.0,PM_01,NADeF Direct,Partnership Fund
+NAD0021,Terchire Women's Cooperative Program,Terchire,Women Empowerment,2023-03-29,2024-03-23,12542.33,11884.55,10,Completed,9.2,100.0,PM_11,NADeF Direct,Special Projects Fund
+NAD0022,Ntotoroso Vocational Training Center,Ntotoroso,Skills Training,2016-03-05,2016-06-03,87380.17,86651.81,21,Completed,7.4,100.0,PM_24,Government Partnership,Partnership Fund
+NAD0023,Gyedu Road/Bridge Construction,Gyedu,Infrastructure,2008-05-21,2009-11-12,306804.56,312444.59,1534,Completed,9.3,100.0,PM_21,Community-led,Partnership Fund
+NAD0024,Ntotoroso Market Development,Ntotoroso,Economic Development,2014-05-22,2014-11-18,59503.65,58210.18,59,Completed,7.1,100.0,PM_18,Community-led,NADeF Core
+NAD0025,Wamahinso Environmental Protection Initiative,Wamahinso,Environmental Conservation,2016-12-16,2017-12-11,19855.11,20667.65,198,Completed,7.9,100.0,PM_04,Government Partnership,Special Projects Fund
+NAD0026,Kenyasi No. 1 Market Development,Kenyasi No. 1,Economic Development,2011-05-28,2011-08-26,60685.66,56121.35,60,Completed,8.2,100.0,PM_03,International NGO,NADeF Core
+NAD0027,Ntotoroso Women's Cooperative Program,Ntotoroso,Women Empowerment,2008-11-17,2009-11-12,40222.05,35117.63,20,Completed,5.9,100.0,PM_16,Community-led,NADeF Core
+NAD0028,Gyedu Agricultural Training Program,Gyedu,Agriculture,2019-08-10,2020-05-06,24673.28,8449.02,18,Cancelled,3.6,29.0,PM_07,Community-led,Partnership Fund
+NAD0029,Terchire Market Development,Terchire,Economic Development,2014-12-13,2015-09-09,84293.77,94220.85,84,Completed,6.6,100.0,PM_15,Community-led,Special Projects Fund
+NAD0030,Yamfo Health Clinic Development,Yamfo,Healthcare,2011-01-15,2011-05-15,171116.02,161773.27,342,Completed,7.3,100.0,PM_11,NADeF Direct,Partnership Fund
+NAD0031,Yamfo Women's Cooperative Program,Yamfo,Women Empowerment,2019-03-14,2019-09-10,19117.41,20941.29,10,Completed,9.6,100.0,PM_01,NADeF Direct,Partnership Fund
+NAD0032,Yamfo School Construction/Renovation,Yamfo,Education,2007-07-07,2008-01-03,25869.02,25228.07,12,Completed,7.7,100.0,PM_11,NADeF Direct,Partnership Fund
+NAD0033,Terchire Market Development,Terchire,Economic Development,2021-01-02,2021-12-28,29589.23,33520.84,29,Completed,6.0,100.0,PM_07,Community-led,NADeF Core
+NAD0034,Hwidiem Environmental Protection Initiative,Hwidiem,Environmental Conservation,2016-08-08,2018-01-30,38345.58,36776.82,383,Completed,9.9,100.0,PM_16,International NGO,NADeF Core
+NAD0035,Kenyasi No. 2 Health Clinic Development,Kenyasi No. 2,Healthcare,2020-10-12,2021-10-07,194367.09,194206.65,388,Completed,7.9,100.0,PM_12,International NGO,Special Projects Fund
+NAD0036,Kenyasi No. 1 Youth Center Development,Kenyasi No. 1,Youth Development,2021-02-07,2022-08-01,37090.43,38309.57,55,Completed,8.5,100.0,PM_21,NADeF Direct,NADeF Core
+NAD0037,Wamahinso Vocational Training Center,Wamahinso,Skills Training,2023-12-16,2024-03-15,34633.09,38874.94,10,Completed,5.7,100.0,PM_08,Local NGO,NADeF Core
+NAD0038,Afrisipa Women's Cooperative Program,Afrisipa,Women Empowerment,2009-02-22,2009-11-19,15795.79,18097.17,10,Completed,5.7,100.0,PM_06,Government Partnership,Special Projects Fund
+NAD0039,Kenyasi No. 2 Market Development,Kenyasi No. 2,Economic Development,2015-12-10,2016-03-09,73770.84,67964.43,73,Completed,9.2,100.0,PM_02,Community-led,NADeF Core
+NAD0040,Yamfo Health Clinic Development,Yamfo,Healthcare,2009-09-24,2010-09-19,105167.47,109380.36,210,Completed,8.6,100.0,PM_16,International NGO,NADeF Core
+NAD0041,Kenyasi No. 1 Vocational Training Center,Kenyasi No. 1,Skills Training,2009-09-10,2010-09-05,38126.08,36076.19,10,Completed,7.6,100.0,PM_01,International NGO,Special Projects Fund
+NAD0042,Terchire Youth Center Development,Terchire,Youth Development,2015-06-28,2016-12-19,22446.51,23642.22,33,Completed,7.0,100.0,PM_24,Community-led,Partnership Fund
+NAD0043,Ntotoroso Youth Center Development,Ntotoroso,Youth Development,2010-04-05,2011-03-31,50725.58,52934.78,76,Completed,7.5,100.0,PM_07,NADeF Direct,Partnership Fund
+NAD0044,Kenyasi No. 1 Women's Cooperative Program,Kenyasi No. 1,Women Empowerment,2022-10-11,2023-07-08,37637.51,42568.74,18,Completed,5.4,100.0,PM_02,NADeF Direct,Partnership Fund
+NAD0045,Gyedu Youth Center Development,Gyedu,Youth Development,2017-11-29,2018-05-28,40463.98,45619.42,60,Completed,7.6,100.0,PM_02,Community-led,NADeF Core
+NAD0046,Kenyasi No. 2 Road/Bridge Construction,Kenyasi No. 2,Infrastructure,2019-05-07,2020-01-02,158831.03,173946.45,794,Completed,8.7,100.0,PM_22,Local NGO,Special Projects Fund
+NAD0047,Hwidiem Health Clinic Development,Hwidiem,Healthcare,2011-07-10,2011-11-07,129447.59,113646.03,258,Completed,7.7,100.0,PM_20,NADeF Direct,Special Projects Fund
+NAD0048,Hwidiem Environmental Protection Initiative,Hwidiem,Environmental Conservation,2017-09-22,2019-09-12,55518.81,52837.75,555,Completed,8.0,100.0,PM_09,Local NGO,Partnership Fund
+NAD0049,Yamfo Water System Installation,Yamfo,Water & Sanitation,2011-12-16,2012-12-10,141633.8,158081.15,424,Completed,7.3,100.0,PM_05,Government Partnership,Special Projects Fund
+NAD0050,Kenyasi No. 2 Water System Installation,Kenyasi No. 2,Water & Sanitation,2006-03-18,2007-03-13,129884.43,116699.68,389,Completed,7.7,100.0,PM_20,Community-led,NADeF Core
+NAD0051,Gyedu Health Clinic Development,Gyedu,Healthcare,2010-10-13,2011-07-10,140964.36,124110.87,281,Completed,7.0,100.0,PM_05,Government Partnership,NADeF Core
+NAD0052,Wamahinso Market Development,Wamahinso,Economic Development,2012-05-23,2012-11-19,20404.93,20703.25,20,Completed,9.1,100.0,PM_15,Community-led,Partnership Fund
+NAD0053,Hwidiem Agricultural Training Program,Hwidiem,Agriculture,2024-02-07,2025-02-01,54117.68,57562.47,40,Completed,7.7,100.0,PM_17,NADeF Direct,Partnership Fund
+NAD0054,Terchire Women's Cooperative Program,Terchire,Women Empowerment,2020-11-17,2021-05-16,23015.99,24049.17,11,Completed,9.5,100.0,PM_05,Government Partnership,NADeF Core
+NAD0055,Gyedu Health Clinic Development,Gyedu,Healthcare,2009-06-27,2010-03-24,148641.93,130522.84,297,Completed,6.1,100.0,PM_10,Community-led,NADeF Core
+NAD0056,Yamfo Water System Installation,Yamfo,Water & Sanitation,2021-06-02,2022-01-28,77128.33,88073.09,231,Completed,6.2,100.0,PM_17,International NGO,Special Projects Fund
+NAD0057,Kenyasi No. 2 School Construction/Renovation,Kenyasi No. 2,Education,2020-03-24,2021-09-15,136505.82,148578.86,68,Completed,8.5,100.0,PM_09,NADeF Direct,NADeF Core
+NAD0058,Ntotoroso Water System Installation,Ntotoroso,Water & Sanitation,2020-04-16,2020-12-12,120766.54,109725.21,362,Completed,9.2,100.0,PM_06,International NGO,Partnership Fund
+NAD0059,Gyedu Vocational Training Center,Gyedu,Skills Training,2006-03-21,2006-06-19,55269.51,57681.57,13,Completed,7.5,100.0,PM_03,Local NGO,Partnership Fund
+NAD0060,Wamahinso School Construction/Renovation,Wamahinso,Education,2019-01-24,2019-10-21,142557.32,53381.92,71,Cancelled,1.0,21.1,PM_14,Local NGO,NADeF Core
+NAD0061,Wamahinso Agricultural Training Program,Wamahinso,Agriculture,2023-11-09,2024-05-07,70699.11,80596.74,53,Completed,7.9,100.0,PM_12,Local NGO,Partnership Fund
+NAD0062,Kenyasi No. 2 Market Development,Kenyasi No. 2,Economic Development,2013-12-07,2014-12-02,88240.76,85199.04,88,Completed,9.6,100.0,PM_20,Local NGO,NADeF Core
+NAD0063,Ntotoroso Road/Bridge Construction,Ntotoroso,Infrastructure,2015-04-01,2015-11-27,177999.65,181032.83,889,Completed,9.8,100.0,PM_06,Government Partnership,Special Projects Fund
+NAD0064,Terchire Market Development,Terchire,Economic Development,2009-07-28,2009-10-26,75682.38,66536.39,75,Completed,6.8,100.0,PM_13,NADeF Direct,Special Projects Fund
+NAD0065,Yamfo Market Development,Yamfo,Economic Development,2024-04-25,2025-04-20,99204.31,99749.82,99,Completed,9.6,100.0,PM_12,Government Partnership,NADeF Core
+NAD0066,Kenyasi No. 1 Market Development,Kenyasi No. 1,Economic Development,2020-10-20,2021-04-18,79261.49,84076.25,79,Completed,8.1,100.0,PM_13,Government Partnership,Special Projects Fund
+NAD0067,Terchire Health Clinic Development,Terchire,Healthcare,2013-11-16,2014-11-11,94038.78,102787.58,188,Completed,9.6,100.0,PM_22,Community-led,Special Projects Fund
+NAD0068,Kenyasi No. 2 School Construction/Renovation,Kenyasi No. 2,Education,2011-11-10,2012-08-06,139155.07,139218.37,69,Completed,9.4,100.0,PM_19,Government Partnership,NADeF Core
+NAD0069,Hwidiem Health Clinic Development,Hwidiem,Healthcare,2015-09-30,2016-06-26,147494.59,160582.94,294,Completed,9.7,100.0,PM_24,Government Partnership,Special Projects Fund
+NAD0070,Gyedu Environmental Protection Initiative,Gyedu,Environmental Conservation,2008-08-05,2011-07-21,30209.78,26530.07,302,Completed,6.7,100.0,PM_19,Local NGO,Special Projects Fund
+NAD0071,Susuanso School Construction/Renovation,Susuanso,Education,2006-01-14,2006-10-11,29492.78,29870.1,14,Completed,7.9,100.0,PM_12,International NGO,NADeF Core
+NAD0072,Hwidiem Water System Installation,Hwidiem,Water & Sanitation,2013-01-15,2013-05-15,122716.66,105684.13,368,Completed,7.5,100.0,PM_24,Government Partnership,Partnership Fund
+NAD0073,Susuanso Agricultural Training Program,Susuanso,Agriculture,2013-04-26,2014-01-21,36611.44,36855.75,27,Completed,9.3,100.0,PM_23,Government Partnership,Partnership Fund
+NAD0074,Yamfo Road/Bridge Construction,Yamfo,Infrastructure,2015-06-07,2017-05-27,145141.83,127086.81,725,Completed,5.2,100.0,PM_22,Local NGO,Partnership Fund
+NAD0075,Terchire Environmental Protection Initiative,Terchire,Environmental Conservation,2015-02-09,2016-02-04,38910.96,40515.22,389,Completed,9.2,100.0,PM_10,Government Partnership,NADeF Core
+NAD0076,Hwidiem Vocational Training Center,Hwidiem,Skills Training,2019-08-10,2020-05-06,117826.69,111568.55,29,Completed,9.4,100.0,PM_15,International NGO,Special Projects Fund
+NAD0077,Gyedu Market Development,Gyedu,Economic Development,2016-08-12,2017-02-08,41666.58,36397.3,41,Completed,5.1,100.0,PM_22,NADeF Direct,Special Projects Fund
+NAD0078,Hwidiem Women's Cooperative Program,Hwidiem,Women Empowerment,2013-07-08,2014-01-04,48505.94,51357.71,24,Completed,8.2,100.0,PM_25,Local NGO,Partnership Fund
+NAD0079,Yamfo Agricultural Training Program,Yamfo,Agriculture,2024-02-03,2024-08-01,25397.66,23494.69,19,Completed,8.6,100.0,PM_05,NADeF Direct,NADeF Core
+NAD0080,Afrisipa Market Development,Afrisipa,Economic Development,2019-09-17,2019-12-16,77167.67,72073.08,77,Completed,9.9,100.0,PM_15,International NGO,Partnership Fund
+NAD0081,Yamfo Environmental Protection Initiative,Yamfo,Environmental Conservation,2022-02-10,2025-01-25,48205.36,49821.02,482,Completed,8.3,100.0,PM_16,International NGO,NADeF Core
+NAD0082,Kenyasi No. 1 Road/Bridge Construction,Kenyasi No. 1,Infrastructure,2022-11-04,2023-07-02,155512.57,167542.07,777,Completed,7.0,100.0,PM_25,International NGO,NADeF Core
+NAD0083,Gyedu Road/Bridge Construction,Gyedu,Infrastructure,2016-06-02,2017-01-28,112723.61,97192.4,563,Completed,7.6,100.0,PM_18,Local NGO,NADeF Core
+NAD0084,Ntotoroso Youth Center Development,Ntotoroso,Youth Development,2023-12-23,2024-12-17,62219.47,54712.71,93,Completed,6.5,100.0,PM_22,Community-led,Partnership Fund
+NAD0085,Wamahinso Environmental Protection Initiative,Wamahinso,Environmental Conservation,2022-12-10,2025-11-24,36306.23,29499.46,363,Active,7.3,95.4,PM_20,Community-led,Special Projects Fund
+NAD0086,Afrisipa Women's Cooperative Program,Afrisipa,Women Empowerment,2009-07-27,2010-07-22,25940.19,26991.5,12,Completed,7.1,100.0,PM_16,International NGO,Special Projects Fund
+NAD0087,Terchire Market Development,Terchire,Economic Development,2023-03-06,2024-02-29,49969.01,50016.02,49,Completed,9.6,100.0,PM_21,Local NGO,Special Projects Fund
+NAD0088,Kenyasi No. 2 Youth Center Development,Kenyasi No. 2,Youth Development,2022-01-02,2022-12-28,59521.62,51853.49,89,Completed,6.9,100.0,PM_08,Government Partnership,Special Projects Fund
+NAD0089,Gyedu Water System Installation,Gyedu,Water & Sanitation,2007-10-23,2008-04-20,43711.58,49484.53,131,Completed,6.7,100.0,PM_05,Local NGO,Special Projects Fund
+NAD0090,Yamfo Road/Bridge Construction,Yamfo,Infrastructure,2007-06-11,2009-05-31,201155.23,198635.93,1005,Completed,8.6,100.0,PM_14,Government Partnership,Partnership Fund
+NAD0091,Susuanso Youth Center Development,Susuanso,Youth Development,2007-05-26,2007-11-22,76487.89,87070.54,114,Completed,7.7,100.0,PM_14,International NGO,Partnership Fund
+NAD0092,Hwidiem School Construction/Renovation,Hwidiem,Education,2014-07-14,2016-01-05,49473.89,43548.57,24,Completed,5.1,100.0,PM_01,Government Partnership,Special Projects Fund
+NAD0093,Susuanso Vocational Training Center,Susuanso,Skills Training,2018-01-27,2018-07-26,38499.87,33547.11,10,Completed,6.0,100.0,PM_16,Local NGO,Special Projects Fund
+NAD0094,Afrisipa Vocational Training Center,Afrisipa,Skills Training,2006-08-26,2007-08-21,106038.78,116042.53,26,Completed,7.8,100.0,PM_11,International NGO,Partnership Fund
+NAD0095,Afrisipa Road/Bridge Construction,Afrisipa,Infrastructure,2008-11-11,2009-07-09,113403.57,117790.34,567,Completed,9.6,100.0,PM_13,Community-led,Partnership Fund
+NAD0096,Kenyasi No. 2 School Construction/Renovation,Kenyasi No. 2,Education,2020-06-01,2021-11-23,116883.88,109240.89,58,Completed,7.5,100.0,PM_05,International NGO,NADeF Core
+NAD0097,Terchire School Construction/Renovation,Terchire,Education,2014-07-03,2015-06-28,118826.84,136312.4,59,Completed,6.2,100.0,PM_07,International NGO,Special Projects Fund
+NAD0098,Susuanso Water System Installation,Susuanso,Water & Sanitation,2012-03-29,2013-03-24,92082.53,87684.77,276,Completed,9.8,100.0,PM_09,NADeF Direct,Special Projects Fund
+NAD0099,Gyedu School Construction/Renovation,Gyedu,Education,2007-03-03,2008-02-26,132301.59,142258.79,66,Completed,9.3,100.0,PM_08,NADeF Direct,Partnership Fund
+NAD0100,Kenyasi No. 1 School Construction/Renovation,Kenyasi No. 1,Education,2011-07-19,2012-04-14,37890.48,37950.19,18,Completed,9.5,100.0,PM_01,Community-led,NADeF Core
+NAD0101,Ntotoroso Market Development,Ntotoroso,Economic Development,2016-08-15,2016-11-13,45603.97,44088.12,45,Completed,7.0,100.0,PM_19,Local NGO,Special Projects Fund
+NAD0102,Wamahinso Agricultural Training Program,Wamahinso,Agriculture,2009-10-06,2010-10-01,69322.92,65565.21,51,Completed,9.9,100.0,PM_20,NADeF Direct,NADeF Core
+NAD0103,Kenyasi No. 2 Agricultural Training Program,Kenyasi No. 2,Agriculture,2018-12-24,2019-06-22,72036.43,74885.55,54,Completed,8.3,100.0,PM_10,Community-led,Partnership Fund
+NAD0104,Susuanso Vocational Training Center,Susuanso,Skills Training,2022-01-14,2022-07-13,56388.97,59307.41,14,Completed,9.3,100.0,PM_03,Community-led,Partnership Fund
+NAD0105,Kenyasi No. 2 Market Development,Kenyasi No. 2,Economic Development,2021-08-21,2022-05-18,83326.32,73107.34,83,Completed,6.5,100.0,PM_22,Community-led,NADeF Core
+NAD0106,Kenyasi No. 1 Environmental Protection Initiative,Kenyasi No. 1,Environmental Conservation,2013-10-15,2016-09-29,17590.14,17281.6,175,Completed,9.7,100.0,PM_22,Government Partnership,NADeF Core
+NAD0107,Wamahinso Women's Cooperative Program,Wamahinso,Women Empowerment,2006-04-14,2007-01-09,24036.6,21462.22,12,Completed,7.3,100.0,PM_16,NADeF Direct,Special Projects Fund
+NAD0108,Afrisipa Water System Installation,Afrisipa,Water & Sanitation,2021-11-12,2022-05-11,126550.53,110761.08,379,Completed,7.1,100.0,PM_14,Local NGO,Partnership Fund
+NAD0109,Terchire Women's Cooperative Program,Terchire,Women Empowerment,2019-10-25,2020-10-19,12910.52,13709.33,10,Completed,7.2,100.0,PM_25,International NGO,Special Projects Fund
+NAD0110,Hwidiem Vocational Training Center,Hwidiem,Skills Training,2012-01-08,2012-10-04,37635.39,7989.29,10,Cancelled,3.4,21.1,PM_08,NADeF Direct,Special Projects Fund
+NAD0111,Yamfo Youth Center Development,Yamfo,Youth Development,2022-10-31,2023-10-26,76834.91,25049.22,115,Cancelled,1.3,21.3,PM_19,Community-led,Partnership Fund
+NAD0112,Wamahinso Vocational Training Center,Wamahinso,Skills Training,2006-08-24,2007-08-19,99943.22,97671.17,24,Completed,9.7,100.0,PM_11,Local NGO,Special Projects Fund
+NAD0113,Wamahinso Market Development,Wamahinso,Economic Development,2023-11-23,2024-08-19,28895.8,24659.85,28,Completed,6.4,100.0,PM_11,Government Partnership,Partnership Fund
+NAD0114,Gyedu Agricultural Training Program,Gyedu,Agriculture,2006-03-25,2007-03-20,18378.2,16269.44,13,Completed,6.9,100.0,PM_07,NADeF Direct,NADeF Core
+NAD0115,Afrisipa Vocational Training Center,Afrisipa,Skills Training,2018-06-15,2018-12-12,97144.04,110613.23,24,Completed,6.1,100.0,PM_23,International NGO,Partnership Fund
+NAD0116,Afrisipa Youth Center Development,Afrisipa,Youth Development,2023-10-14,2024-04-11,37142.73,34062.8,55,Completed,9.9,100.0,PM_03,Government Partnership,NADeF Core
+NAD0117,Yamfo Vocational Training Center,Yamfo,Skills Training,2012-11-13,2013-08-10,31093.9,3511.99,10,Cancelled,2.6,36.7,PM_16,Community-led,Partnership Fund
+NAD0118,Susuanso Water System Installation,Susuanso,Water & Sanitation,2022-09-24,2023-05-22,179015.07,181907.29,537,Completed,9.9,100.0,PM_12,International NGO,Special Projects Fund
+NAD0119,Terchire Agricultural Training Program,Terchire,Agriculture,2011-03-04,2011-08-31,46385.87,49109.86,34,Completed,8.4,100.0,PM_24,Local NGO,Special Projects Fund
+NAD0120,Gyedu Health Clinic Development,Gyedu,Healthcare,2023-02-04,2023-08-03,144133.71,161479.83,288,Completed,5.1,100.0,PM_07,Local NGO,Partnership Fund
+NAD0121,Terchire Youth Center Development,Terchire,Youth Development,2022-04-02,2023-09-24,36857.79,13529.73,55,Cancelled,2.9,23.7,PM_25,Community-led,Partnership Fund
+NAD0122,Kenyasi No. 2 Agricultural Training Program,Kenyasi No. 2,Agriculture,2024-09-03,2025-03-02,31642.87,31298.26,23,Completed,8.1,100.0,PM_10,Local NGO,Special Projects Fund
+NAD0123,Terchire Road/Bridge Construction,Terchire,Infrastructure,2006-04-26,2007-04-21,264688.24,302358.25,1323,Completed,8.0,100.0,PM_09,NADeF Direct,NADeF Core
+NAD0124,Terchire Women's Cooperative Program,Terchire,Women Empowerment,2021-08-23,2022-02-19,37926.47,35759.29,18,Completed,9.4,100.0,PM_21,International NGO,NADeF Core
+NAD0125,Hwidiem School Construction/Renovation,Hwidiem,Education,2012-05-18,2013-11-09,110591.4,124224.9,55,Completed,7.5,100.0,PM_16,International NGO,Special Projects Fund
+NAD0126,Kenyasi No. 1 Road/Bridge Construction,Kenyasi No. 1,Infrastructure,2011-08-31,2013-08-20,383684.97,396739.68,1918,Completed,8.3,100.0,PM_04,NADeF Direct,Special Projects Fund
+NAD0127,Kenyasi No. 2 Youth Center Development,Kenyasi No. 2,Youth Development,2018-12-10,2020-06-02,75963.71,65599.65,113,Completed,5.1,100.0,PM_22,NADeF Direct,NADeF Core
+NAD0128,Hwidiem Road/Bridge Construction,Hwidiem,Infrastructure,2012-10-25,2013-06-22,197350.59,226199.86,986,Completed,5.5,100.0,PM_08,NADeF Direct,Partnership Fund
+NAD0129,Hwidiem Vocational Training Center,Hwidiem,Skills Training,2019-05-16,2019-11-12,83471.76,95239.14,20,Completed,7.5,100.0,PM_25,Community-led,Special Projects Fund
+NAD0130,Afrisipa Youth Center Development,Afrisipa,Youth Development,2012-09-01,2014-02-23,70299.72,68503.27,105,Completed,7.8,100.0,PM_14,Government Partnership,Partnership Fund
+NAD0131,Kenyasi No. 1 Environmental Protection Initiative,Kenyasi No. 1,Environmental Conservation,2019-09-04,2020-08-29,17536.9,19183.09,175,Completed,10.0,100.0,PM_25,Local NGO,Partnership Fund
+NAD0132,Terchire Market Development,Terchire,Economic Development,2020-10-24,2021-01-22,99730.95,107778.86,99,Completed,9.8,100.0,PM_06,Local NGO,NADeF Core
+NAD0133,Kenyasi No. 2 Women's Cooperative Program,Kenyasi No. 2,Women Empowerment,2009-07-06,2010-01-02,43985.9,43333.29,21,Completed,7.4,100.0,PM_14,International NGO,Partnership Fund
+NAD0134,Afrisipa Environmental Protection Initiative,Afrisipa,Environmental Conservation,2012-07-13,2013-07-08,57932.3,53216.19,579,Completed,9.0,100.0,PM_08,Government Partnership,Partnership Fund
+NAD0135,Afrisipa Agricultural Training Program,Afrisipa,Agriculture,2007-08-07,2008-08-01,52087.69,46049.03,39,Completed,7.0,100.0,PM_08,Government Partnership,Partnership Fund
+NAD0136,Yamfo Environmental Protection Initiative,Yamfo,Environmental Conservation,2015-07-15,2016-07-09,38413.85,38646.21,384,Completed,9.6,100.0,PM_18,Local NGO,Partnership Fund
+NAD0137,Terchire Road/Bridge Construction,Terchire,Infrastructure,2024-07-16,2025-07-11,254369.72,283112.5,1271,Completed,6.2,100.0,PM_03,NADeF Direct,NADeF Core
+NAD0138,Hwidiem Agricultural Training Program,Hwidiem,Agriculture,2022-10-19,2023-10-14,23040.91,24804.49,17,Completed,8.9,100.0,PM_10,International NGO,NADeF Core
+NAD0139,Terchire Youth Center Development,Terchire,Youth Development,2021-09-11,2022-09-06,62244.79,55454.59,93,Completed,5.0,100.0,PM_09,Community-led,Partnership Fund
+NAD0140,Afrisipa Youth Center Development,Afrisipa,Youth Development,2007-10-21,2009-04-13,41035.25,39708.72,61,Completed,8.3,100.0,PM_02,International NGO,Partnership Fund
+NAD0141,Hwidiem Water System Installation,Hwidiem,Water & Sanitation,2011-08-14,2011-12-12,166582.22,167281.34,499,Completed,9.4,100.0,PM_03,Local NGO,Partnership Fund
+NAD0142,Hwidiem Environmental Protection Initiative,Hwidiem,Environmental Conservation,2006-06-19,2008-06-08,32844.43,36414.91,328,Completed,7.8,100.0,PM_19,NADeF Direct,NADeF Core
+NAD0143,Gyedu Youth Center Development,Gyedu,Youth Development,2020-08-12,2021-08-07,28824.41,7137.93,43,Cancelled,2.4,17.7,PM_09,Local NGO,Partnership Fund
+NAD0144,Afrisipa Vocational Training Center,Afrisipa,Skills Training,2008-01-18,2009-01-12,118202.93,112130.31,29,Completed,8.9,100.0,PM_12,International NGO,Special Projects Fund
+NAD0145,Kenyasi No. 2 Water System Installation,Kenyasi No. 2,Water & Sanitation,2009-08-10,2010-04-07,73620.39,65423.78,220,Completed,5.4,100.0,PM_14,International NGO,Special Projects Fund
+NAD0146,Gyedu Vocational Training Center,Gyedu,Skills Training,2006-10-28,2007-10-23,43671.24,45516.89,10,Completed,7.5,100.0,PM_03,Government Partnership,Special Projects Fund
+NAD0147,Kenyasi No. 2 Water System Installation,Kenyasi No. 2,Water & Sanitation,2023-04-30,2024-04-24,88393.42,87702.93,265,Completed,9.0,100.0,PM_17,NADeF Direct,Partnership Fund
+NAD0148,Afrisipa Women's Cooperative Program,Afrisipa,Women Empowerment,2015-04-09,2015-10-06,16892.79,14565.99,10,Completed,5.5,100.0,PM_07,Community-led,Special Projects Fund
+NAD0149,Afrisipa Environmental Protection Initiative,Afrisipa,Environmental Conservation,2020-01-11,2022-12-26,27536.57,24138.85,275,Completed,5.4,100.0,PM_25,NADeF Direct,NADeF Core
+NAD0150,Gyedu Agricultural Training Program,Gyedu,Agriculture,2008-12-09,2009-09-05,42646.73,40910.19,31,Completed,8.5,100.0,PM_15,International NGO,NADeF Core
+NAD0151,Hwidiem School Construction/Renovation,Hwidiem,Education,2023-12-05,2024-08-31,111299.35,121296.61,55,Completed,8.9,100.0,PM_23,Local NGO,Special Projects Fund
+NAD0152,Kenyasi No. 1 Women's Cooperative Program,Kenyasi No. 1,Women Empowerment,2018-05-22,2019-02-16,13270.36,14945.9,10,Completed,5.2,100.0,PM_03,Local NGO,NADeF Core
+NAD0153,Kenyasi No. 2 Youth Center Development,Kenyasi No. 2,Youth Development,2020-07-12,2021-01-08,36612.66,39339.49,54,Completed,7.6,100.0,PM_16,Government Partnership,Partnership Fund
+NAD0154,Susuanso Agricultural Training Program,Susuanso,Agriculture,2024-09-21,2025-06-18,27560.96,27432.99,20,Completed,8.9,100.0,PM_16,Local NGO,Special Projects Fund
+NAD0155,Ntotoroso Women's Cooperative Program,Ntotoroso,Women Empowerment,2014-08-09,2015-02-05,24756.55,26594.5,12,Completed,7.1,100.0,PM_20,Community-led,Partnership Fund
+NAD0156,Kenyasi No. 2 Road/Bridge Construction,Kenyasi No. 2,Infrastructure,2012-03-13,2014-03-03,157042.01,175661.23,785,Completed,6.5,100.0,PM_11,Community-led,Special Projects Fund
+NAD0157,Terchire School Construction/Renovation,Terchire,Education,2022-04-14,2023-04-09,91514.19,90070.43,45,Completed,8.6,100.0,PM_19,Community-led,Partnership Fund
+NAD0158,Ntotoroso Youth Center Development,Ntotoroso,Youth Development,2016-01-07,2017-06-30,34548.23,33276.35,51,Completed,7.1,100.0,PM_16,Government Partnership,Special Projects Fund
+NAD0159,Gyedu Women's Cooperative Program,Gyedu,Women Empowerment,2014-06-18,2015-03-15,22883.17,21698.94,11,Completed,7.4,100.0,PM_11,Local NGO,Partnership Fund
+NAD0160,Hwidiem Market Development,Hwidiem,Economic Development,2014-08-04,2015-01-31,91242.18,96144.69,91,Completed,9.4,100.0,PM_25,International NGO,NADeF Core
+NAD0161,Afrisipa Water System Installation,Afrisipa,Water & Sanitation,2021-10-26,2022-10-21,109781.91,111004.0,329,Completed,8.8,100.0,PM_13,Local NGO,Special Projects Fund
+NAD0162,Ntotoroso School Construction/Renovation,Ntotoroso,Education,2017-04-07,2018-04-02,118179.93,104976.17,59,Completed,5.9,100.0,PM_04,International NGO,NADeF Core
+NAD0163,Afrisipa Women's Cooperative Program,Afrisipa,Women Empowerment,2006-05-06,2007-05-01,24523.29,25044.01,12,Completed,8.1,100.0,PM_05,International NGO,Partnership Fund
+NAD0164,Kenyasi No. 2 Road/Bridge Construction,Kenyasi No. 2,Infrastructure,2016-07-13,2018-01-04,395617.46,364430.16,1978,Completed,7.3,100.0,PM_11,Community-led,Partnership Fund
+NAD0165,Kenyasi No. 2 Vocational Training Center,Kenyasi No. 2,Skills Training,2013-05-15,2014-05-10,43757.32,39303.02,10,Completed,5.6,100.0,PM_11,International NGO,Partnership Fund
+NAD0166,Hwidiem School Construction/Renovation,Hwidiem,Education,2007-07-15,2008-04-10,60636.9,67854.48,30,Completed,5.2,100.0,PM_21,Government Partnership,NADeF Core
+NAD0167,Susuanso Health Clinic Development,Susuanso,Healthcare,2008-03-17,2008-07-15,128676.71,147297.98,257,Completed,5.3,100.0,PM_15,Local NGO,Partnership Fund
+NAD0168,Kenyasi No. 1 Agricultural Training Program,Kenyasi No. 1,Agriculture,2007-01-12,2007-10-09,38871.34,13980.16,29,Cancelled,1.8,34.5,PM_02,Government Partnership,Special Projects Fund
+NAD0169,Susuanso Water System Installation,Susuanso,Water & Sanitation,2009-04-07,2009-10-04,63924.26,72158.53,191,Completed,6.7,100.0,PM_17,International NGO,Partnership Fund
+NAD0170,Ntotoroso Road/Bridge Construction,Ntotoroso,Infrastructure,2009-12-05,2010-08-02,260774.12,281857.16,1303,Completed,7.6,100.0,PM_20,International NGO,Partnership Fund
+NAD0171,Afrisipa Market Development,Afrisipa,Economic Development,2019-01-30,2019-07-29,45894.34,45999.12,45,Completed,7.7,100.0,PM_08,International NGO,Partnership Fund
+NAD0172,Afrisipa Agricultural Training Program,Afrisipa,Agriculture,2011-09-23,2012-09-17,21890.21,20502.13,16,Completed,8.7,100.0,PM_01,International NGO,Special Projects Fund
+NAD0173,Ntotoroso Women's Cooperative Program,Ntotoroso,Women Empowerment,2007-08-29,2008-05-25,16174.51,16332.64,10,Completed,7.2,100.0,PM_12,Community-led,Special Projects Fund
+NAD0174,Terchire Vocational Training Center,Terchire,Skills Training,2016-03-31,2016-12-26,60294.39,52396.57,15,Completed,8.0,100.0,PM_07,International NGO,Special Projects Fund
+NAD0175,Yamfo Health Clinic Development,Yamfo,Healthcare,2014-07-22,2015-04-18,98353.08,91113.52,196,Completed,9.0,100.0,PM_19,Government Partnership,Partnership Fund
+NAD0176,Kenyasi No. 1 Agricultural Training Program,Kenyasi No. 1,Agriculture,2024-08-13,2025-08-08,60613.67,60096.81,45,Completed,8.2,100.0,PM_13,Government Partnership,NADeF Core
+NAD0177,Kenyasi No. 1 Environmental Protection Initiative,Kenyasi No. 1,Environmental Conservation,2019-08-08,2022-07-23,30699.07,10719.68,306,Cancelled,1.4,39.0,PM_10,Local NGO,Partnership Fund
+NAD0178,Yamfo Water System Installation,Yamfo,Water & Sanitation,2020-04-12,2020-10-09,142321.45,21970.15,426,Cancelled,3.2,12.0,PM_20,Government Partnership,Partnership Fund
+NAD0179,Kenyasi No. 2 Road/Bridge Construction,Kenyasi No. 2,Infrastructure,2020-01-28,2020-09-24,261703.76,233421.88,1308,Completed,7.4,100.0,PM_10,International NGO,NADeF Core
+NAD0180,Wamahinso Environmental Protection Initiative,Wamahinso,Environmental Conservation,2022-06-05,2023-11-27,24073.23,21648.57,240,Completed,7.4,100.0,PM_03,Government Partnership,Special Projects Fund
+NAD0181,Ntotoroso Vocational Training Center,Ntotoroso,Skills Training,2010-07-03,2010-12-30,89867.75,86061.77,22,Completed,9.6,100.0,PM_18,Government Partnership,Partnership Fund
+NAD0182,Terchire Women's Cooperative Program,Terchire,Women Empowerment,2024-08-17,2025-02-13,25697.8,25228.57,12,Completed,8.1,100.0,PM_09,International NGO,Special Projects Fund
+NAD0183,Kenyasi No. 2 Water System Installation,Kenyasi No. 2,Water & Sanitation,2016-07-03,2016-10-31,104775.17,112558.16,314,Completed,8.5,100.0,PM_05,Local NGO,Partnership Fund
+NAD0184,Gyedu Vocational Training Center,Gyedu,Skills Training,2014-03-16,2014-06-14,50899.14,49126.19,12,Completed,8.6,100.0,PM_13,NADeF Direct,Special Projects Fund
+NAD0185,Kenyasi No. 2 Women's Cooperative Program,Kenyasi No. 2,Women Empowerment,2016-03-14,2016-12-09,46258.88,40942.32,23,Completed,7.8,100.0,PM_22,Government Partnership,Partnership Fund
+NAD0186,Wamahinso Vocational Training Center,Wamahinso,Skills Training,2008-06-06,2008-12-03,86493.72,77133.51,21,Completed,7.4,100.0,PM_16,NADeF Direct,Partnership Fund
+NAD0187,Wamahinso Women's Cooperative Program,Wamahinso,Women Empowerment,2019-09-07,2020-03-05,34802.91,38915.49,17,Completed,7.4,100.0,PM_21,NADeF Direct,Partnership Fund
+NAD0188,Terchire Youth Center Development,Terchire,Youth Development,2020-07-24,2021-07-19,29100.49,26904.77,43,Completed,9.2,100.0,PM_04,Local NGO,NADeF Core
+NAD0189,Terchire School Construction/Renovation,Terchire,Education,2017-01-18,2017-07-17,29191.55,31490.03,14,Completed,9.6,100.0,PM_04,Local NGO,Partnership Fund
+NAD0190,Susuanso Road/Bridge Construction,Susuanso,Infrastructure,2016-03-05,2017-08-27,186176.57,164429.19,930,Completed,7.5,100.0,PM_22,Community-led,Special Projects Fund
+NAD0191,Ntotoroso Environmental Protection Initiative,Ntotoroso,Environmental Conservation,2015-04-22,2016-04-16,20736.99,22586.49,207,Completed,7.4,100.0,PM_16,Community-led,Special Projects Fund
+NAD0192,Kenyasi No. 1 Agricultural Training Program,Kenyasi No. 1,Agriculture,2021-06-25,2022-03-22,28755.08,30653.23,21,Completed,8.9,100.0,PM_07,International NGO,Special Projects Fund
+NAD0193,Wamahinso Market Development,Wamahinso,Economic Development,2008-03-24,2008-12-19,75515.88,69892.94,75,Completed,8.0,100.0,PM_18,Government Partnership,NADeF Core
+NAD0194,Terchire Vocational Training Center,Terchire,Skills Training,2010-04-04,2010-07-03,46343.79,47503.2,11,Completed,8.2,100.0,PM_15,NADeF Direct,Partnership Fund
+NAD0195,Hwidiem Market Development,Hwidiem,Economic Development,2006-06-24,2006-09-22,56960.46,8316.54,56,Cancelled,2.5,27.6,PM_11,Local NGO,NADeF Core
+NAD0196,Yamfo Environmental Protection Initiative,Yamfo,Environmental Conservation,2007-07-17,2009-01-07,42515.44,47261.74,425,Completed,7.8,100.0,PM_19,Local NGO,NADeF Core
+NAD0197,Ntotoroso Water System Installation,Ntotoroso,Water & Sanitation,2023-09-09,2024-01-07,119118.65,134216.91,357,Completed,7.1,100.0,PM_09,Local NGO,NADeF Core
+NAD0198,Terchire Women's Cooperative Program,Terchire,Women Empowerment,2023-11-29,2024-05-27,16101.56,16617.05,10,Completed,8.3,100.0,PM_04,NADeF Direct,NADeF Core
+NAD0199,Wamahinso School Construction/Renovation,Wamahinso,Education,2023-09-20,2024-06-16,117055.53,44208.43,58,Cancelled,1.3,23.5,PM_19,Government Partnership,NADeF Core
+NAD0200,Terchire Road/Bridge Construction,Terchire,Infrastructure,2007-03-06,2008-02-29,395073.39,350587.65,1975,Completed,7.8,100.0,PM_24,International NGO,Partnership Fund
